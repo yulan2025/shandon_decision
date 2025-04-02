@@ -1,6 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="50px" height="30px" xmlns="http://www.w3.org/2000/svg">
-  <g transform="matrix(1 0 0 1 -1727 -629 )">
-    <path d="M 0 30  L 0 0  L 50 0  L 50 30  L 31.686358754028 30  L 0 30  Z " fill-rule="nonzero" fill="#edf2fd" stroke="none" fill-opacity="0" transform="matrix(1 0 0 1 1727 629 )" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="195px" height="184px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="clip507">
+      <path d="M 37.8840361445785 184  L 0 70.4306220095694  L 97.2063253012048 0  L 195 70.4306220095694  L 157.409638554217 184  L 37.8840361445785 184  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -1317 -581 )">
+    <path d="M 37.8840361445785 184  L 0 70.4306220095694  L 97.2063253012048 0  L 195 70.4306220095694  L 157.409638554217 184  L 37.8840361445785 184  Z " fill-rule="nonzero" fill="#dbe4fb" stroke="none" transform="matrix(1 0 0 1 1317 581 )" />
+    <path d="M 37.8840361445785 184  L 0 70.4306220095694  L 97.2063253012048 0  L 195 70.4306220095694  L 157.409638554217 184  L 37.8840361445785 184  Z " stroke-width="2" stroke="#5d97f0" fill="none" transform="matrix(1 0 0 1 1317 581 )" mask="url(#clip507)" />
   </g>
 </svg>
