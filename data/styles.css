@@ -129,6 +129,15 @@
 }
 .image1 {
 }
+.link_button {
+  color:#169BD5;
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.flow_shape {
+}
 .label {
   font-size:14px;
   text-align:left;
@@ -173,5 +182,29 @@
 }
 ._文本段落2 {
   text-align:left;
+}
+.flow_shape1 {
+}
+.paragraph1 {
+  text-align:left;
+}
+.heading_21 {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.heading_3 {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+.form_hint {
+  color:#999999;
+}
+.form_disabled {
 }
 textarea, select, input, button { outline: none; }
