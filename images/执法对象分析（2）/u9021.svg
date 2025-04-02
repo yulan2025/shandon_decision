@@ -1,7 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="457px" height="312px" xmlns="http://www.w3.org/2000/svg">
-  <g transform="matrix(1 0 0 1 -495 -747 )">
-    <path d="M 496 748  L 951 748  L 951 1058  L 496 1058  L 496 748  Z " fill-rule="nonzero" fill="#123f73" stroke="none" fill-opacity="0.298039215686275" />
-    <path d="M 495.5 747.5  L 951.5 747.5  L 951.5 1058.5  L 495.5 1058.5  L 495.5 747.5  Z " stroke-width="1" stroke="#064a9b" fill="none" stroke-opacity="0.996078431372549" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="299px" height="14px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="353" y1="875" x2="54" y2="875" id="LinearGradient676">
+      <stop id="Stop677" stop-color="#13c2c2" stop-opacity="0.749019607843137" offset="0" />
+      <stop id="Stop678" stop-color="#2f54eb" stop-opacity="0.4" offset="1" />
+    </linearGradient>
+  </defs>
+  <g transform="matrix(1 0 0 1 -54 -868 )">
+    <path d="M 54 868  L 352.5 868  L 352.5 882  L 54 882  L 54 868  Z " fill-rule="nonzero" fill="url(#LinearGradient676)" stroke="none" />
+    <path d="M 352.5 868  L 352.5 882  " stroke-width="1" stroke="#13c2c2" fill="none" />
   </g>
 </svg>
