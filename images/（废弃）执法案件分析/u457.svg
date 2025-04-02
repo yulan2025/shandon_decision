@@ -1,12 +1,26 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="152px" height="41px" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="578px" height="89px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <mask fill="white" id="clip213">
-      <path d="M 118.814569536424 41  L 152 0  L 33 0  L 0.807947019867477 41  L 118.814569536424 41  Z " fill-rule="evenodd" />
+    <linearGradient gradientUnits="userSpaceOnUse" x1="284" y1="79" x2="284" y2="0" id="LinearGradient892">
+      <stop id="Stop893" stop-color="#1acdfd" stop-opacity="0.149019607843137" offset="0" />
+      <stop id="Stop894" stop-color="#1acdfd" stop-opacity="0" offset="1" />
+    </linearGradient>
+    <mask fill="white" id="clip895">
+      <path d="M 507 79  L 501 79  L 67.0158071529108 79  L 61 79  L 0.170960187353671 2.20374707259953  L 284.000059932547 0.388124224995913  L 567.829039812646 2.20374707259953  L 507 79  Z " fill-rule="evenodd" />
     </mask>
+    <filter x="671px" y="12px" width="578px" height="89px" filterUnits="userSpaceOnUse" id="filter896">
+      <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetInner" />
+      <feGaussianBlur stdDeviation="2.5" in="shadowOffsetInner" result="shadowGaussian" />
+      <feComposite in2="shadowGaussian" operator="atop" in="SourceAlpha" result="shadowComposite" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0.101960784313725  0 0 0 0 0.803921568627451  0 0 0 0 0.992156862745098  0 0 0 1 0  " in="shadowComposite" />
+    </filter>
+    <g id="widget897">
+      <path d="M 507 79  L 501 79  L 67.0158071529108 79  L 61 79  L 0.170960187353671 2.20374707259953  L 284.000059932547 0.388124224995913  L 567.829039812646 2.20374707259953  L 507 79  Z " fill-rule="nonzero" fill="url(#LinearGradient892)" stroke="none" transform="matrix(1 0 0 1 676 17 )" />
+      <path d="M 507 79  L 501 79  L 67.0158071529108 79  L 61 79  L 0.170960187353671 2.20374707259953  L 284.000059932547 0.388124224995913  L 567.829039812646 2.20374707259953  L 507 79  Z " stroke-width="2" stroke="#1acdfd" fill="none" transform="matrix(1 0 0 1 676 17 )" mask="url(#clip895)" />
+    </g>
   </defs>
-  <g transform="matrix(1 0 0 1 -1221 -36 )">
-    <path d="M 118.814569536424 41  L 152 0  L 33 0  L 0.807947019867477 41  L 118.814569536424 41  Z " fill-rule="nonzero" fill="#1acdfd" stroke="none" fill-opacity="0.396078431372549" transform="matrix(1 0 0 1 1221 36 )" />
-    <path d="M 118.814569536424 41  L 152 0  L 33 0  L 0.807947019867477 41  L 118.814569536424 41  Z " stroke-width="2" stroke="#1acdfd" fill="none" stroke-opacity="0.498039215686275" transform="matrix(1 0 0 1 1221 36 )" mask="url(#clip213)" />
+  <g transform="matrix(1 0 0 1 -671 -12 )">
+    <use xlink:href="#widget897" filter="url(#filter896)" />
+    <use xlink:href="#widget897" />
   </g>
 </svg>
