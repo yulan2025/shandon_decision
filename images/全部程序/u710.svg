@@ -1,12 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="9px" height="9px" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1078px" height="48px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <mask fill="white" id="clip902">
-      <path d="M 9 4.5  C 9 1.98  7.02 0  4.5 0  C 1.98 0  0 1.98  0 4.5  C 0 7.02  1.98 9  4.5 9  C 7.02 9  9 7.02  9 4.5  Z " fill-rule="evenodd" />
-    </mask>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="1144.05161290323" y1="108" x2="67" y2="108" id="LinearGradient92">
+      <stop id="Stop93" stop-color="#007afe" stop-opacity="0" offset="0" />
+      <stop id="Stop94" stop-color="#007afe" offset="0.5" />
+      <stop id="Stop95" stop-color="#1acdfd" stop-opacity="0" offset="1" />
+    </linearGradient>
   </defs>
-  <g transform="matrix(1 0 0 1 -128 -117 )">
-    <path d="M 9 4.5  C 9 1.98  7.02 0  4.5 0  C 1.98 0  0 1.98  0 4.5  C 0 7.02  1.98 9  4.5 9  C 7.02 9  9 7.02  9 4.5  Z " fill-rule="nonzero" fill="#007afe" stroke="none" fill-opacity="0.988235294117647" transform="matrix(1 0 0 1 128 117 )" />
-    <path d="M 9 4.5  C 9 1.98  7.02 0  4.5 0  C 1.98 0  0 1.98  0 4.5  C 0 7.02  1.98 9  4.5 9  C 7.02 9  9 7.02  9 4.5  Z " stroke-width="2" stroke="#007afe" fill="none" transform="matrix(1 0 0 1 128 117 )" mask="url(#clip902)" />
+  <g transform="matrix(1 0 0 1 -67 -108 )">
+    <path d="M 67 108  L 1145 108  L 1145 155.5  L 67 155.5  L 67 108  Z " fill-rule="nonzero" fill="#0a84ff" stroke="none" fill-opacity="0.0470588235294118" />
+    <path d="M 1145 155.5  L 67 155.5  " stroke-width="1" stroke="url(#LinearGradient92)" fill="none" />
   </g>
 </svg>
