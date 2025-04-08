@@ -3,7 +3,7 @@
   background-image:none;
   position:relative;
   left:0px;
-  width:1920px;
+  width:1282px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
@@ -16,31 +16,31 @@
   position:absolute;
   z-index:0;
 }
-#u5_img {
+#u8_img {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:1920px;
-  height:1091px;
+  width:1282px;
+  height:722px;
 }
-#u5 {
+#u8 {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:1920px;
-  height:1091px;
+  width:1282px;
+  height:722px;
   display:flex;
 }
-#u5 .text {
+#u8 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u5_text {
+#u8_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;

@@ -2,8 +2,8 @@
   margin:0px;
   background-image:none;
   position:relative;
-  left:-816px;
-  width:664px;
+  left:-175px;
+  width:1279px;
   margin-left:auto;
   margin-right:auto;
   text-align:left;
@@ -16,7 +16,37 @@
   position:absolute;
   z-index:0;
 }
-#u18_img {
+#u21_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:243px;
+  height:589px;
+}
+#u21 {
+  border-width:0px;
+  position:absolute;
+  left:1211px;
+  top:35px;
+  width:243px;
+  height:589px;
+  display:flex;
+}
+#u21 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u21_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u22_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -24,25 +54,63 @@
   width:664px;
   height:445px;
 }
-#u18 {
+#u22 {
   border-width:0px;
   position:absolute;
-  left:816px;
-  top:29px;
+  left:175px;
+  top:42px;
   width:664px;
   height:445px;
   display:flex;
 }
-#u18 .text {
+#u22 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u18_text {
+#u22_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
+}
+#u23_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:339px;
+  height:283px;
+  background:inherit;
+  background-color:rgba(255, 223, 37, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
+  box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
+  font-size:14px;
+}
+#u23 {
+  border-width:0px;
+  position:absolute;
+  left:846px;
+  top:65px;
+  width:339px;
+  height:283px;
+  display:flex;
+  font-size:14px;
+}
+#u23 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:10px 10px 10px 10px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u23_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
 }

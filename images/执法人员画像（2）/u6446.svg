@@ -1,6 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="10px" height="10px" xmlns="http://www.w3.org/2000/svg">
-  <g transform="matrix(1 0 0 1 -1403 -789 )">
-    <path d="M 1408 789  C 1410.8 789  1413 791.2  1413 794  C 1413 796.8  1410.8 799  1408 799  C 1405.2 799  1403 796.8  1403 794  C 1403 791.2  1405.2 789  1408 789  Z " fill-rule="nonzero" fill="#f59a23" stroke="none" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="7px" height="7px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="1413.5" y1="540" x2="1413.5" y2="547" id="LinearGradient403">
+      <stop id="Stop404" stop-color="#409eff" stop-opacity="0.533333333333333" offset="0" />
+      <stop id="Stop405" stop-color="#4e7beb" offset="1" />
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="1413.5" y1="540" x2="1413.5" y2="547" id="LinearGradient406">
+      <stop id="Stop407" stop-color="#409eff" offset="0" />
+      <stop id="Stop408" stop-color="#4e7beb" offset="1" />
+    </linearGradient>
+  </defs>
+  <g transform="matrix(1 0 0 1 -1410 -540 )">
+    <path d="M 1413.5 541  C 1414.9 541  1416 542.1  1416 543.5  C 1416 544.9  1414.9 546  1413.5 546  C 1412.1 546  1411 544.9  1411 543.5  C 1411 542.1  1412.1 541  1413.5 541  Z " fill-rule="nonzero" fill="url(#LinearGradient403)" stroke="none" />
+    <path d="M 1413.5 541  C 1414.9 541  1416 542.1  1416 543.5  C 1416 544.9  1414.9 546  1413.5 546  C 1412.1 546  1411 544.9  1411 543.5  C 1411 542.1  1412.1 541  1413.5 541  Z " stroke-width="2" stroke="url(#LinearGradient406)" fill="none" />
   </g>
 </svg>
