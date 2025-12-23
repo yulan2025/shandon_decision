@@ -1,7 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="539px" height="265px" xmlns="http://www.w3.org/2000/svg">
-  <g transform="matrix(1 0 0 1 -1370 -458 )">
-    <path d="M 1371 473  A 14 14 0 0 1 1385 459 L 1894 459  A 14 14 0 0 1 1908 473 L 1908 708  A 14 14 0 0 1 1894 722 L 1385 722  A 14 14 0 0 1 1371 708 L 1371 473  Z " fill-rule="nonzero" fill="#123f73" stroke="none" fill-opacity="0.298039215686275" />
-    <path d="M 1370.5 473  A 14.5 14.5 0 0 1 1385 458.5 L 1894 458.5  A 14.5 14.5 0 0 1 1908.5 473 L 1908.5 708  A 14.5 14.5 0 0 1 1894 722.5 L 1385 722.5  A 14.5 14.5 0 0 1 1370.5 708 L 1370.5 473  Z " stroke-width="1" stroke="#064a9b" fill="none" stroke-opacity="0.996078431372549" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="34px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="787" y1="937" x2="787" y2="971" id="LinearGradient959">
+      <stop id="Stop960" stop-color="#13c2c2" stop-opacity="0.749019607843137" offset="0" />
+      <stop id="Stop961" stop-color="#2f54eb" stop-opacity="0.4" offset="1" />
+    </linearGradient>
+  </defs>
+  <g transform="matrix(1 0 0 1 -777 -937 )">
+    <path d="M 777 937.5  L 797 937.5  L 797 971  L 777 971  L 777 937.5  Z " fill-rule="nonzero" fill="url(#LinearGradient959)" stroke="none" />
+    <path d="M 777 937.5  L 797 937.5  " stroke-width="1" stroke="#13c2c2" fill="none" />
   </g>
 </svg>

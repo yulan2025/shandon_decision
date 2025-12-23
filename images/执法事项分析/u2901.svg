@@ -1,26 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="578px" height="89px" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1052px" height="14px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient gradientUnits="userSpaceOnUse" x1="284" y1="79" x2="284" y2="0" id="LinearGradient167">
-      <stop id="Stop168" stop-color="#1acdfd" stop-opacity="0.149019607843137" offset="0" />
-      <stop id="Stop169" stop-color="#1acdfd" stop-opacity="0" offset="1" />
-    </linearGradient>
-    <mask fill="white" id="clip170">
-      <path d="M 507 79  L 501 79  L 67.0158071529108 79  L 61 79  L 0.170960187353671 2.20374707259953  L 284.000059932547 0.388124224995913  L 567.829039812646 2.20374707259953  L 507 79  Z " fill-rule="evenodd" />
-    </mask>
-    <filter x="671px" y="12px" width="578px" height="89px" filterUnits="userSpaceOnUse" id="filter171">
-      <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetInner" />
-      <feGaussianBlur stdDeviation="2.5" in="shadowOffsetInner" result="shadowGaussian" />
-      <feComposite in2="shadowGaussian" operator="atop" in="SourceAlpha" result="shadowComposite" />
-      <feColorMatrix type="matrix" values="0 0 0 0 0.101960784313725  0 0 0 0 0.803921568627451  0 0 0 0 0.992156862745098  0 0 0 1 0  " in="shadowComposite" />
-    </filter>
-    <g id="widget172">
-      <path d="M 507 79  L 501 79  L 67.0158071529108 79  L 61 79  L 0.170960187353671 2.20374707259953  L 284.000059932547 0.388124224995913  L 567.829039812646 2.20374707259953  L 507 79  Z " fill-rule="nonzero" fill="url(#LinearGradient167)" stroke="none" transform="matrix(1 0 0 1 676 17 )" />
-      <path d="M 507 79  L 501 79  L 67.0158071529108 79  L 61 79  L 0.170960187353671 2.20374707259953  L 284.000059932547 0.388124224995913  L 567.829039812646 2.20374707259953  L 507 79  Z " stroke-width="2" stroke="#1acdfd" fill="none" transform="matrix(1 0 0 1 676 17 )" mask="url(#clip170)" />
-    </g>
+    <radialGradient cx="947.105263157893" cy="95.999999999996" r="530.781221141603" gradientTransform="matrix(0.999911492485439 0.0133044051179413 -0.00276959292895633 0.208152696390409 0.349706854049863 63.4166690361305 )" gradientUnits="userSpaceOnUse" id="RadialGradient757">
+      <stop id="Stop758" stop-color="#1acdfd" offset="0" />
+      <stop id="Stop759" stop-color="#000000" stop-opacity="0" offset="1" />
+    </radialGradient>
   </defs>
-  <g transform="matrix(1 0 0 1 -671 -12 )">
-    <use xlink:href="#widget172" filter="url(#filter171)" />
-    <use xlink:href="#widget172" />
+  <g transform="matrix(1 0 0 1 -433 -96 )">
+    <path d="M 959 96  C 1253.56 96  1485 99.08  1485 103  C 1485 106.92  1253.56 110  959 110  C 664.44 110  433 106.92  433 103  C 433 99.08  664.44 96  959 96  Z " fill-rule="nonzero" fill="url(#RadialGradient757)" stroke="none" />
   </g>
 </svg>
